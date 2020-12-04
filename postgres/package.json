@@ -1,0 +1,12 @@
+{
+  "name": "node-pg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^5.27.4",
+    "@sentry/tracing": "^5.27.4",
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}
